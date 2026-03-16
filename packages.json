@@ -3,5 +3,16 @@
         "package": "meetupr",
         "url": "https://github.com/rladies/meetupr",
         "branch": "main"
+    },
+    {
+        "package": "spellbind",
+        "url": "https://github.com/rladies/spellbind",
+        "branch": "main"
+    },
+    {
+        "package": "jinx",
+        "url": "https://github.com/rladies/jinx",
+        "branch": "main"
     }
 ]
+
